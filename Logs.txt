@@ -1,0 +1,14 @@
+1/4/26 - 8:35PM
+gonna start keeping logs, my memory is terrible so this might help me to learn faster.
+ill keep a few instructions at the bottom, simple note to self. maybe a few syntax tips, few things to look back to. anyways, SSRPG (short for SSSASRPG) is now in stage V2.0, a complete makeover from 1.x shockingly.
+its very strange to look from SSRPG prototype - 1.x - 2.0, such drastic jumps every time.
+
+
+
+
+
+
+
+
+basic order to place things in a script:
+Imports -> Variables -> Functions -> Else
