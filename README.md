@@ -13,3 +13,9 @@ Game.old/ → older versions
 Tests/ → some test scripts I ran before integrating, mostly useless
 Logs.txt → my thoughts, tips for the future, notes, whatever
 Have fun i guess.
+
+-UPDATES-
+**Version 3.0**
+    full rework from 1.x/2.x
+    taking a whole new turn, like always
+    hopefully wont be abandoned for a while.

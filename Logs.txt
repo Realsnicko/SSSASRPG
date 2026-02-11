@@ -12,3 +12,8 @@ its very strange to look from SSRPG prototype - 1.x - 2.0, such drastic jumps ev
 
 basic order to place things in a script:
 Imports -> Variables -> Functions -> Else
+
+yeah i stopped doing the above pretty much immediately. what i AM doing tho?
+UPLOADING ALL THE MISC. TESTS AND STUFF THAT I FOUND! WOOOOOOOAHHH!
+2/10/26 - 9:25 PM  ^
+(also sorry about abandoning the project for a while, a whole series of screwups happened and im pushing this now as im sicker than a mf. enjoy!)

@@ -1,0 +1,4 @@
+yo. cool so im gonna explain this bcz its diff from v1 and v2.
+so GameLauncher is the launcher. run this. this gives you the load/new options, the settings option, and the community option.
+game.py  is the game itself. shocker. i know. GameLauncher passes off to this when you start.
+data.py just holds a few functions and variables. disappointing. im aware.
